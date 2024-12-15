@@ -1,0 +1,1 @@
+Spring Security for practice work №6 in WEB application development.
